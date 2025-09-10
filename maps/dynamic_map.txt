@@ -1,0 +1,5 @@
+S R R T R
+R B R R R
+R P R T R
+R R B R R
+R R R T G
